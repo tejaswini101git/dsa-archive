@@ -73,6 +73,7 @@ Every solution aims to document:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1929-concatenation-of-array](https://github.com/tejaswini101git/dsa-archive/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -82,8 +83,13 @@ Every solution aims to document:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tejaswini101git/dsa-archive/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tejaswini101git/dsa-archive/tree/main/0125-valid-palindrome/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
