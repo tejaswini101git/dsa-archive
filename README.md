@@ -74,6 +74,7 @@ Every solution aims to document:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tejaswini101git/dsa-archive/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tejaswini101git/dsa-archive/tree/main/1929-concatenation-of-array/) | Easy |
@@ -85,6 +86,7 @@ Every solution aims to document:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tejaswini101git/dsa-archive/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/tejaswini101git/dsa-archive/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -99,6 +101,7 @@ Every solution aims to document:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
