@@ -79,6 +79,7 @@ Every solution aims to document:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tejaswini101git/dsa-archive/tree/main/1929-concatenation-of-array/) | Easy |
+| [2270-number-of-ways-to-split-array](https://github.com/tejaswini101git/dsa-archive/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +111,8 @@ Every solution aims to document:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tejaswini101git/dsa-archive/tree/main/0011-container-with-most-water/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2270-number-of-ways-to-split-array](https://github.com/tejaswini101git/dsa-archive/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 <!---LeetCode Topics End-->
