@@ -77,6 +77,7 @@ Every solution aims to document:
 | [0015-3sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/tejaswini101git/dsa-archive/tree/main/0016-3sum-closest/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/tejaswini101git/dsa-archive/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tejaswini101git/dsa-archive/tree/main/1929-concatenation-of-array/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/tejaswini101git/dsa-archive/tree/main/2270-number-of-ways-to-split-array/) | Medium |
@@ -114,5 +115,6 @@ Every solution aims to document:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/tejaswini101git/dsa-archive/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/tejaswini101git/dsa-archive/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 <!---LeetCode Topics End-->
