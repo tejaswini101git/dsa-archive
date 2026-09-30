@@ -77,6 +77,7 @@ Every solution aims to document:
 | [0015-3sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/tejaswini101git/dsa-archive/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/tejaswini101git/dsa-archive/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
@@ -94,6 +95,7 @@ Every solution aims to document:
 | [0015-3sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/tejaswini101git/dsa-archive/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/tejaswini101git/dsa-archive/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
