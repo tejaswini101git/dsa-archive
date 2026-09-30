@@ -79,6 +79,7 @@ Every solution aims to document:
 | [0018-4sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0018-4sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/tejaswini101git/dsa-archive/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tejaswini101git/dsa-archive/tree/main/1929-concatenation-of-array/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/tejaswini101git/dsa-archive/tree/main/2270-number-of-ways-to-split-array/) | Medium |
@@ -95,6 +96,7 @@ Every solution aims to document:
 | [0018-4sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0018-4sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/tejaswini101git/dsa-archive/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -110,14 +112,20 @@ Every solution aims to document:
 | [0015-3sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/tejaswini101git/dsa-archive/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/tejaswini101git/dsa-archive/tree/main/0018-4sum/) | Medium |
+| [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tejaswini101git/dsa-archive/tree/main/0011-container-with-most-water/) | Medium |
+| [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/tejaswini101git/dsa-archive/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/tejaswini101git/dsa-archive/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
