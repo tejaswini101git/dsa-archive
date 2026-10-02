@@ -81,6 +81,7 @@ Every solution aims to document:
 | [0027-remove-element](https://github.com/tejaswini101git/dsa-archive/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/tejaswini101git/dsa-archive/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/tejaswini101git/dsa-archive/tree/main/0283-move-zeroes/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tejaswini101git/dsa-archive/tree/main/1929-concatenation-of-array/) | Easy |
@@ -100,6 +101,7 @@ Every solution aims to document:
 | [0027-remove-element](https://github.com/tejaswini101git/dsa-archive/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/tejaswini101git/dsa-archive/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/tejaswini101git/dsa-archive/tree/main/0283-move-zeroes/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
