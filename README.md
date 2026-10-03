@@ -104,12 +104,14 @@ Every solution aims to document:
 | [0125-valid-palindrome](https://github.com/tejaswini101git/dsa-archive/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejaswini101git/dsa-archive/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/tejaswini101git/dsa-archive/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/tejaswini101git/dsa-archive/tree/main/0392-is-subsequence/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tejaswini101git/dsa-archive/tree/main/0125-valid-palindrome/) | Easy |
+| [0392-is-subsequence](https://github.com/tejaswini101git/dsa-archive/tree/main/0392-is-subsequence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +138,8 @@ Every solution aims to document:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/tejaswini101git/dsa-archive/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
