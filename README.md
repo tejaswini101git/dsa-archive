@@ -85,6 +85,7 @@ Every solution aims to document:
 | [0283-move-zeroes](https://github.com/tejaswini101git/dsa-archive/tree/main/0283-move-zeroes/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/tejaswini101git/dsa-archive/tree/main/1089-duplicate-zeros/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tejaswini101git/dsa-archive/tree/main/1929-concatenation-of-array/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/tejaswini101git/dsa-archive/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 ## Simulation
@@ -107,6 +108,7 @@ Every solution aims to document:
 | [0392-is-subsequence](https://github.com/tejaswini101git/dsa-archive/tree/main/0392-is-subsequence/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tejaswini101git/dsa-archive/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tejaswini101git/dsa-archive/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/tejaswini101git/dsa-archive/tree/main/1089-duplicate-zeros/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
